@@ -1,0 +1,21 @@
+my-project-repo/
+├── filesys.py                      <-- Streamlit main entry point
+├── .streamlit/
+│   └── secrets.toml                <-- Contains GCP credentials & sheet IDs
+└── my_streamlit_app/               <-- Standard Python package (use underscore for imports)
+    ├── __init__.py
+    ├── config.py
+    ├── services/
+    │   ├── __init__.py
+    │   ├── sheets.py
+    │   └── drive.py
+    ├── components/
+    │   ├── __init__.py
+    │   └── ui.py
+    └── views/
+        ├── __init__.py
+        ├── admin.py
+        ├── supervisor.py
+        ├── salesperson.py
+        ├── worker.py
+        └── logistics.py

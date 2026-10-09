@@ -1,0 +1,179 @@
+previous interface was better. I don't want excel for the details. I want better Ui as well. 
+use Animations and effects as well. 
+
+For Admin Portal
+	- Dashboard Tab: I want Interactive KPI's which look good as well and professional too.
+		- Total Sales by all the Salespersons done.
+		- Site in progress. If we click on it it takes to a page in which the  sites are mentioned which are in progress and as well as the progress insights in a beautifull and good way. which is easy to understand not in excel formart.Also, Who visited the site.
+		- Site on Hold. If we click on it it takes to a page in which the delayed sites are mentioned and as well as the delayed reason. Who visited the site. 
+		  Site Photographs everyting. 
+		- Total Buget spent on all the sites during installation and so on.
+		- Total SItes Completed 
+		- Upcoming Sites. We click on them we get the details.
+		- Instead of the current graph show pie chart for all the details. total sites, in progress sites. oh hold sites. 
+
+	- Sites Tab: Its name is Replaced With Active Sites.I want Different Style. For excel there should be a button if the Admin wants to see the excel or not. If the want it dynamicall appears for that site.
+		- If they select any Site (on going must appear dynamically in the Drop down or they can search by site name as well.)
+		- Daily logs Budget alotted for installation, budget used, progress, photos, workers on the site appears dynamically. each workers work can be seen if admin wants to. 
+		- Budget meter must be there
+ 		- Budget allowed budget spent must be shown.
+		- Site Progress meter must be there.
+		- Once the site is handovered it is not shown in the drop down  but they can see it in master database tab.
+		- The Graphs and details must be dynamic and interactive as well. It must be easy to read and understand the situation.
+		- each site photos also be seen by the admins.
+
+	- Sales Report Tab: Things are Good But Change. You can use multiple graphs as well which makes the dashboard better and more engaging.
+		- With Order Date range give separate option to choose from 15 days, 1 mnths , 3 month, quaterly , 6 month, 1 year option as well.
+		- Make the Kpi's for this dashboard more better visualisation they look very dull.
+		- Geographical Reach is nice but I want it to be dynamic and more attractive and have more features.
+		- Product Graphs should also be present. 
+
+
+
+	- 🚚 Logistics & Production Reports Tab: I want for each site details not the excel that is shown now. If Admin wants excel for the site there must be a optional button in which they select and then the excel appears and they can downliad it.
+		- For each sight production details must be there.
+		- days to be taken for the production.
+		- progress of the production
+		- Date for dispatch requirement for dispacth, where the product will be dispatched.
+		- They do not use any 
+
+
+	- For Management Reports Tab: 
+		- Daily activty feed must be shown by sites not in total. If the site is selected the details regarding it is shown. 
+		- the data must not be shown in excel only. There must be an excel button which one clicks and then it is shown. It also has download button.
+		- There is also shown sites prodution details as well. in Management Reports there are two tabs
+			- 1. Production Details
+			- Installation Details
+	  	  In production the details are shown like which product, how long, how much time, dispatch date, photos of product when completed, product photo when disptached with dispatch vheial no. photo. It showns the progress bar as well.
+	    	  In installation the details are shown like daily progress and current code for this is fine.
+
+	- For 👷 Worker Reports Tab: 
+		- The Drop down for all the workers list is shown. 
+		- It display details like rating gives by the super visors 
+		- In Kpi's Sites they visited Sites which are on Hold, travelled, places travelled.
+		- Tasks they performed. 
+		- Graphs are shown and all. But in interactive and better way.
+		- Excel is also shown. 
+
+	- For 💸 Budget Reports Tab: 
+		- It must have Kpis for total sales done, total spent on installation, if any site increased the budget and one you suggest.
+		- It have Budget for sites as well. There is site and for that site everything is shown how much spent by the team, how much the exceeded, the reason for exceed and so on.
+		- travel expense, which team on worked the site and how much they spent.
+
+	- For 🧾 Log Site Daily Expenses Tab: Add this in Sales Report Tab only.
+	- For 📈 Admin Analytics Dashboard Tab: Add this in Sales Report Tab only.
+
+	- For 💰 Sales Analytics Report: is the report for sales persons. Admin can see the report card for each salesperson in detail. 
+		- The Graphs must be better.
+		- "📅 Select Report Time Period:" filter there is also a filter for the salesperson as well. example i want to see sales of Jeevan Sir with a particular time period.
+
+	- For 👨‍💼 Employee Analytics & Reports: Merge it with Worker reports and make a better report.
+	- For 🚗 TA/DA Payroll & Travel Summary: It must be shown for each site which is selected not in total. and other details.
+
+	- For 🕵️ Advanced Field Logs Inspector Tab: this is the master Inspector. 
+		- Example: There is Jeevan sir who went to an Site his site name comes. Sale of that site. Which workers worked there, delay reason if any. and so on.Photos of that site. 
+		- It also has option to write the site name not just dropdown becaue it is the master. It has all time Data.
+
+	- For master Database: Keep it Same. If have any changes tell, Open for sugesstions.
+
+For Sales Person Portal:
+	- 💰 My Sales Tab:
+		- October 2026: Kpi should be in left and in better way. WIth borders and effects. 
+		- Other Things are fine.
+	- For 📝 Log Visit & Order Deal Tab:
+		- In 🤝 Deal & Order Status Details: If in the drop down they choose Lost. A box appear in which they have to write why it was lost. 
+
+	- For 🔍 Track Site Progress: 
+		- They Progress is shown in bit more detail. Other thing Ui is Perfect Just add details and daily logs.
+
+	- Want More Functionalities to be added like:
+		- Once the Order Status is Confirmed it sends a direct notification to the Logistics and production with deatils of the products and details like for site, address of site and so on. But they should not see the deal value.
+		- Once the Logictics and Production Give the time needed the notification is sent to the Salesperson and they can see the progress on the production and dispatch.
+		- Once the Order Is confirmed a Notification is sent to Supervisors as well in another KPI of Upcoming orders and once the order is dispatched they get notification about. Urgent Team alignment required.
+		- Once the order is confirmed the Supervisor gets Notification about site visit and site details.
+	- Sales Person can track the details and progress about their particular sites. Daily activities and all, but not the budget spent on the site or travelallowance and so on.
+
+
+For Supervisor Portal: 
+	- 🔔 New Installation Requests Tab: Things Are fine for this.
+		- Add just like "🚨2 New Installation Order(s) Awaiting Supervisor Action!" like "🚨2 New Site Visit Request Order(s) Awaiting Supervisor Action!", "Orders Dispatched, Team Alignment" and below each the tasks are displayed.
+	
+	- ✍️ Log Daily Tasks.: Are fine and working nicely. Do not change anything.
+	
+	- 💰 Log Site Daily Expenses Tab: Remove it. Doesn't have Anything to do with it
+
+	- 🔍 View Logs & Update Status Tab: 
+		- In "Select Installation ID" Completed Sites are not dynamically shown. Only On hold sites and In Progress are shown.
+		- Other Things are fine.
+	- 🗓️ Handover Date Dashboard Tab:
+		- "Timeline Overview of Running Sites" Show the Graphs For each In Progress site and a Notification for holded site. A danger mark for sites which  havw crossed handoverdate. The readon for crossing the Handovered date
+	- 📌 Active Tasks Dashboard Tab:
+		
+
+	- 👨‍💼 Employee Analytics & Reports Tab: 
+		- The KPI's currently are not usefull. Istead of that show Total of every category Workers and ther availibities as well. 
+		  Example there are 30 Workers: 5 Installers, 15 Helpers, 5 Team leads, 5 Painter, 5 Electrician. 
+			- 2 Installers, 5 Helpers, 2 Team leads, 2 Painter, 2 Electrician. are on 1 site.
+			- 1 Installers, 3 Helpers, 2 Team leads, 1 Painter, 1 Electrician. are on another site.
+			It is Shown which other works from which category are free and their name is shown to them.
+
+		- There appears a site Report after the Site is Completed. Dynamically selecting the workers for taht particular site. 
+		- The report for each worker for each site must be complusory. How they performed. How they created problem and so on. It will reflect in admin and Supervisor dashboard as well.
+		- The Supervisors have to rate them out of 10 for different paramenter that will reflect in their report to admins as well.
+
+		- An overall Graph is shown in which instead of each worker progress overall progress is shownn. Examples. Pie Chart for Civil Mounting Work, Site Survey, Wiring & Electrical, Commissioning& testing. It must be Dynamic. and Bar Graphs for 
+		  what how much time taken for which work. And a Dynamic Top 3 person for that particular task are shown. Example: for Civil Mounting Work Sukh Dev, Amit, Amir took took least time theri name is shown. and same for other categories as well.
+		- Other reports and everything is fine.
+	- 👨‍🏫 Team Head Dashboard Tab: Keep it same.
+	- 🛢️ Master Database Tab: Remove it.
+
+
+	- New Add Ons Required:
+		- Once the order is confirmed the Supervisor gets Notification about site visit and site details. they alin the site detais and collect the photographg, conditio and details of the site. 
+		- Once the order is Ready to dispacth 3 days earlier they get the notification about the remainder that new site is on the way for installation.
+		- Once the order is disptached they have the noticiation about order is dispatch and they can see the tracking details reach time location and so on.
+
+For Logistics Portal:
+	- Details like Date for dispatch, requirement for dispacth, where the product will be dispatche so admins can see.
+	- delay reason for dispatch if any.
+	- a notification on admin portal and logitcs portal once the 3 days earlier when the disptach date entered is left.
+	- a box in which a tracking order or link can be pasted which admins can see.
+	- once the order is dispatch a notification with details like site name, site address, days to reach, tracking of order, product details and so on.
+	- 
+
+For Worker Portal:
+	- 📊 My Work Dashboard Tab: Is Showing this error fix it.
+	TypeError: can only concatenate str (not "int") to str
+
+	File "C:\Users\DELL\Desktop\OWN\installationmanagement\filesys.py", line 339, in <module>
+  	  main()
+  	  ~~~~^^
+	File "C:\Users\DELL\Desktop\OWN\installationmanagement\filesys.py", line 320, in main
+	    render_worker_dashboard(user_name, user_designation)
+		    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	File "C:\Users\DELL\Desktop\OWN\installationmanagement\installation_app\views\worker.py", line 38, in render_worker_dashboard
+    	perf_score = int((total_hours * 2) + (days_travelled * 15) + (days_worked * 10))
+    	                 ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~
+	- ✍️ Log Daily Tasks Tab: It is fine. 
+		- add option to fill the details in the photo format. example: when they reach the site they upload a photo, when they leave the site they upload the photo. And the time tracking is also done from the time 1st photo is uploaded to last photo uploaded and timer is showing on their dashboard. 
+		  Each day working are is also shown for the site they are alotted to. 
+		- these details are to be shown in admin, supervisor portals as well.
+
+
+	- 🏆 My Work History & Performance Tab: Keep it same.
+	- 👤 My Profile & Settings: Keep it same.
+
+
+For Budget Manager Portal : 
+	- This will be the main person who will manage the budget for every site. From food to travel to stay and everything.
+	- They will allow site budget instead for the budget for each employee. They also have option for extra amount which is for emergency. 
+
+I Also want to add the new roles and their Id generation
+- Adminc: ADM001, ADM002 ...
+- Salesperson: SP001, SP002 ..
+- Supervisor: SV001,SV002 ...
+- Logictics: LP001, LP002 ...
+- Production Manager: LP001, LP002 ...
+- Budget: BM001, BM002 ...
+- Worker: Workers have more categorgeir like Instaler, painter helper, electrician so on.: W001, W002, W003 ...
+
