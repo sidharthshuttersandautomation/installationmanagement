@@ -54,6 +54,13 @@ from installation_app.views.worker import (
 )
 from installation_app.views.logistics import render_logistics_view
 
+import asyncio
+import sys
+
+# Silence WinError 10054 connection reset noise on Windows
+if sys.platform == "win32":
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    
 def login_screen():
     """Renders authentication & login form with detailed database connection error handling."""
     st.write("##")
